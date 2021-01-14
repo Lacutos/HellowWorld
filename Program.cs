@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine("B3 V.12");
 
             Console.WriteLine("Add AWS Service");
+            Console.WriteLine("Add Athena");
         }
     }
 }
