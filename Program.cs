@@ -11,6 +11,8 @@ namespace HelloWorld
 
             Console.WriteLine("Add AWS Service");
             Console.WriteLine("Add Athena");
+
+            Console.WriteLine("Add Lambda");
         }
     }
 }
