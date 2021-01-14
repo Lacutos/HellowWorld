@@ -14,7 +14,9 @@ namespace HelloWorld
 
             Console.WriteLine("Add Lambda");
 
-            Console.WriteLine("EC2");
+            Console.WriteLine("Add EC2");
+
+            Console.WriteLine("Add RDS");
             
         }
     }
