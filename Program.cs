@@ -13,6 +13,9 @@ namespace HelloWorld
             Console.WriteLine("Add Athena");
 
             Console.WriteLine("Add Lambda");
+
+            Console.WriteLine("EC2");
+            
         }
     }
 }
