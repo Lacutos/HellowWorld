@@ -8,6 +8,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("B3 V.12");
+
+            Console.WriteLine("Add AWS Service");
         }
     }
 }
