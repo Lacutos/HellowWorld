@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\riceb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\riceb\\OneDrive\\文件\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riceb\\AppData\\Roaming\\NuGet\\NuGet.Config"
